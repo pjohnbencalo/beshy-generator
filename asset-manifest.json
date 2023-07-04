@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beshy-generator/static/css/main.8da7518a.css",
+    "main.js": "/beshy-generator/static/js/main.ffcc43d9.js",
+    "index.html": "/beshy-generator/index.html",
+    "main.8da7518a.css.map": "/beshy-generator/static/css/main.8da7518a.css.map",
+    "main.ffcc43d9.js.map": "/beshy-generator/static/js/main.ffcc43d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da7518a.css",
+    "static/js/main.ffcc43d9.js"
+  ]
+}
